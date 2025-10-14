@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/proposal-charagua-observatory/static/css/main.bdd454ae.css",
-    "main.js": "/proposal-charagua-observatory/static/js/main.2e5bd23e.js",
+    "main.css": "/proposal-charagua-observatory/static/css/main.a3910dc1.css",
+    "main.js": "/proposal-charagua-observatory/static/js/main.a979a16e.js",
     "index.html": "/proposal-charagua-observatory/index.html",
-    "main.bdd454ae.css.map": "/proposal-charagua-observatory/static/css/main.bdd454ae.css.map",
-    "main.2e5bd23e.js.map": "/proposal-charagua-observatory/static/js/main.2e5bd23e.js.map"
+    "main.a3910dc1.css.map": "/proposal-charagua-observatory/static/css/main.a3910dc1.css.map",
+    "main.a979a16e.js.map": "/proposal-charagua-observatory/static/js/main.a979a16e.js.map"
   },
   "entrypoints": [
-    "static/css/main.bdd454ae.css",
-    "static/js/main.2e5bd23e.js"
+    "static/css/main.a3910dc1.css",
+    "static/js/main.a979a16e.js"
   ]
 }
